@@ -1,2 +1,2 @@
 # TECHVER
-This is the model verification repository. 
+This is the model repository. 
