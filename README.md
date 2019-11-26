@@ -1,8 +1,6 @@
 # TECHVER
 This is the model verification repository. 
 
-These aser my newly proposed changes:
+This will be updated further with elaborated examples. 
 
-1.
-2.
-3.
+When you are conducting black-box tests, if you identify an error, it might be beneficial to correct that error first before you proceed to the next black-box test. 
